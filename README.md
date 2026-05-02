@@ -2,7 +2,7 @@
 
 <img src="imagens/Academico.ico" width="72" alt="Logo Sistema Acadêmico" />
 
-# Sistema Acadêmico — Calculadora de Notas
+# Sistema Acadêmico · Calculadora de Notas
 
 Calcule médias, simule exames finais e exporte seu boletim em PDF.  
 Front-end puro · Sem servidor · 100% no navegador.
@@ -21,7 +21,7 @@ Front-end puro · Sem servidor · 100% no navegador.
 
 ## O que é
 
-O **Sistema Acadêmico** é uma calculadora de notas para estudantes que querem acompanhar seu desempenho sem planilha e sem complicação. Informe as notas, escolha o modelo da sua instituição e veja em segundos: sua média, se você passou, quanto precisa tirar no exame final — e exporte tudo num boletim em PDF.
+O **Sistema Acadêmico** é uma calculadora de notas para estudantes que querem acompanhar seu desempenho sem planilha e sem complicação. Informe as notas, escolha o modelo da sua instituição e veja em segundos: sua média, se você passou, quanto precisa tirar no exame final e exporte tudo num boletim em PDF.
 
 Nenhum dado sai do seu dispositivo. Processamento 100% local.
 
@@ -29,14 +29,14 @@ Nenhum dado sai do seu dispositivo. Processamento 100% local.
 
 ## Funcionalidades
 
-- **Múltiplos modelos de avaliação** — instituição pública (7,0), privada (6,0), personalizada ou modelo de 3 notas
-- **Simulação dupla** — se você não sabe a média exigida, calcula automaticamente para 6,0 e 7,0
-- **Detecção de reprovação imediata** — se a nota necessária no exame for matematicamente impossível (> 10), o sistema avisa na hora
+- **Múltiplos modelos de avaliação** · instituição pública (7,0), privada (6,0), personalizada ou modelo de 3 notas
+- **Simulação dupla** · se você não sabe a média exigida, calcula automaticamente para 6,0 e 7,0
+- **Detecção de reprovação imediata** · se a nota necessária no exame for matematicamente impossível (> 10), o sistema avisa na hora
 - **Barra de progresso animada** com marcador da nota mínima exigida
 - **Exportação em PDF** com design profissional via jsPDF
 - **Histórico de consultas** salvo localmente (até 20 entradas via `localStorage`)
 - **Tema claro / escuro** com detecção automática via `prefers-color-scheme`
-- **Totalmente responsivo** — funciona em celular, tablet e desktop
+- **Totalmente responsivo** · funciona em celular, tablet e desktop
 
 ---
 
@@ -117,7 +117,7 @@ calculadora-de-notas/
 
 ## Licença
 
-MIT — veja o arquivo [LICENSE](LICENSE).
+MIT veja o arquivo [LICENSE](LICENSE).
 
 ---
 
